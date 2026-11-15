@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-ssr
+release
+electron-smoke.png
+*.local
+*.log
+.tmp-*
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+release-clean
+release-clean-installer
